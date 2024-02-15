@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "533fb58a-ca2f-414a-a272-6926cc5e0ac1",
+		"name": "crunch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "32823692"
+	},
+	"item": [
+		{
+			"name": "https://www.crunchbase.com/organization/jar-09f5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "https://www.crunchbase.com/organization/jar-09f5",
+					"protocol": "https",
+					"host": [
+						"www",
+						"crunchbase",
+						"com"
+					],
+					"path": [
+						"organization",
+						"jar-09f5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://www.crunchbase.com/organization/jar-09f5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.crunchbase.com/organization/jar-09f5",
+					"protocol": "https",
+					"host": [
+						"www",
+						"crunchbase",
+						"com"
+					],
+					"path": [
+						"organization",
+						"jar-09f5"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
